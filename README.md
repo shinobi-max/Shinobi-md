@@ -9,4 +9,4 @@
 
 ### 1.` STAR 🌟 This Repo ` And Then Click Fork Below
 <br>
-    <a href='https://github.com/shinobi-max/Shinobi-md/fork' target="_blank"><img alt='Fork' src='https://img.shields.io/badge/-Fork-blue?style=for-the-badge&logo=Github&logoColor=white'/></a>
+    <a href='https://github.com/shinobi-max/Shinobi-md/fork' target="_blank"><img alt='Fork' src='https://img.shields.io/badge/-Fork-blue?style=for-the-badge&logo=Github&logoColor=black'/></a>
