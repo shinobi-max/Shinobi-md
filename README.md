@@ -16,5 +16,37 @@
 # Je travaille sur le site du session ID à present attend  un Peu
 
 
-# Sans le Session on peut pas deployer alors attend les platforme de deployment apres avoir fini le site du Session  
-     𝐌𝐞𝐫𝐜𝐢 𝐩𝐨𝐮𝐫 𝐯𝐨𝐭𝐫𝐞 𝐜𝐨𝐦𝐩𝐫𝐞𝐡𝐞𝐧𝐬𝐢𝐨𝐧
+# Sans le Session on peut pas deployer alors attend les platforme de deployment apres avoir fini le site du Session 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+𝙼𝚎𝚛𝚌𝚒 𝚙𝚘𝚞𝚛 𝚟𝚘𝚝𝚛𝚎 𝚌𝚘𝚖𝚙𝚛𝚎𝚑𝚎𝚗𝚜𝚒𝚘𝚗
