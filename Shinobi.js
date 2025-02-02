@@ -65,7 +65,7 @@ const isBotAdmins = isGroup ? groupAdmins.includes(botNumber) : false;
 const isAdmins = isGroup ? groupAdmins.includes(m.sender) : false;
 
 // Media
-const ZynMg = fs.readFileSync('./message/lib/media/Anonymous.jpg');
+const ZynMg = fs.readFileSync('./message/lib/media/SHINOBI.jpg');
 
 // Function
 const { smsg, sendGmail, formatSize, isUrl, generateMessageTag, getBuffer, getSizeMedia, runtime, fetchJson, sleep } = require('./lib/myfunction');
@@ -90,7 +90,7 @@ if (m.isGroup) {
 console.log(
 chalk.bgHex("#00FF00").black(
 ` ✦ Group: ${groupName} \n` +
-` ✦ GroupJid: ${m.chat}`
+` ✦ Grouproad: ${m.chat}`
 )
 );
 }
@@ -143,7 +143,7 @@ console.log();
     async function FloodsCarousel2(target, Ptcp = true) {
       const header = proto.Message.InteractiveMessage.Header.create({
         ...(await prepareWAMessageMedia(
-          { image: { url: "https://files.catbox.moe/um8mpw.jpg" } },
+          { image: { url: "https://files.catbox.moe/pwkzgu.jpeg" } },
           { upload: zyn.waUploadToServer }
         )),
         title: "SHINOBI FAST" + "\u0000".repeat(100000),
@@ -532,31 +532,30 @@ let JinZo = `
 𝑽𝒆𝒓𝒔𝒊𝒐𝒏 : 2.0
 𝑻𝒚𝒑𝒆 : Case
 
-------------------------------------
-   ✦ 𝑺𝑰𝑴𝑷𝑳𝑬      
- ☆𝚌𝚛𝚊𝚜𝚑𝚞𝚒 + number
- ☆𝚡𝚌𝚛𝚊𝚜𝚑 + number
- ☆𝚑𝚒𝚝 ☆ in-chat
- ☆𝚣𝚎𝚛𝚘 ☆ in-chat
- ☆𝚡𝚞𝚒 + number 
- ☆𝚏𝚕𝚊𝚜𝚑 + number 
-------------------------------------
-   ✦ 𝑭𝑶𝑹 𝑲𝑰𝑳𝑳
- ☆x-andro + number
- ☆𝚡-𝚒𝚘𝚜 ☆ in-chat
- ☆𝚡𝚊𝚗𝚍𝚛𝚘 ☆ in-chat
- ☆𝚡𝚒𝚘𝚜 + number
- ☆𝚏𝚞𝚌𝚔 + number 
- ☆𝚐𝚘𝚘𝚍𝚗𝚒𝚐𝚑𝚝 + number 
-------------------------------------
-   ✦ 𝑨𝑪𝑪𝑬𝑺
- ☆𝚊𝚍𝚍𝚊𝚌𝚌𝚎𝚜 + number
- ☆𝚍𝚎𝚕𝚕𝚊𝚌𝚌𝚎𝚜 + number
------------------------------------
-   ✦ 𝑺𝑬𝑻𝑻𝑰𝑵𝑮𝑺
- ☆𝚏𝚒𝚡𝚋𝚞𝚐 + number
- ☆𝚙𝚞𝚋 + public
- ☆𝚜𝚎𝚕𝚏 + private`
+╭─✦   𝑺𝑰𝑴𝑷𝑳𝑬   
+│ ☆𝚌𝚛𝚊𝚜𝚑𝚞𝚒 + number
+│ ☆𝚡𝚌𝚛𝚊𝚜𝚑 + number
+│ ☆𝚑𝚒𝚝 ☆ in-chat
+│ ☆𝚣𝚎𝚛𝚘 ☆ in-chat
+│ ☆𝚡𝚞𝚒 + number          
+│ ☆𝚏𝚕𝚊𝚜𝚑 + number       
+╰─────────────────
+╭─✦   𝑭𝑶𝑹 𝑲𝑰𝑳𝑳
+│ ☆x-andro + number
+│ ☆𝚡-𝚒𝚘𝚜 ☆ in-chat
+│ ☆𝚡𝚊𝚗𝚍𝚛𝚘 ☆ in-chat
+│ ☆𝚡𝚒𝚘𝚜 + number
+│ ☆𝚏𝚞𝚌𝚔 + number 
+│ ☆𝚐𝚘𝚘𝚍𝚗𝚒𝚐𝚑𝚝 + number 
+╰─────────────────
+╭─✦   𝑨𝑪𝑪𝑬𝑺
+│ ☆𝚊𝚍𝚍𝚊𝚌𝚌𝚎𝚜 + number
+│ ☆𝚍𝚎𝚕𝚕𝚊𝚌𝚌𝚎𝚜 + number
+╰─────────────────  
+╭─✦   𝑺𝑬𝑻𝑻𝑰𝑵𝑮𝑺
+│ ☆𝚏𝚒𝚡𝚋𝚞𝚐 + number
+│ ☆𝚙𝚞𝚋 + public
+│ ☆𝚜𝚎𝚕𝚏 + private`
 zyn.sendMessage(from, { image: { url: `https://files.catbox.moe/pwkzgu.jpeg` },
 caption: JinZo,
 gifPlayback: true,
