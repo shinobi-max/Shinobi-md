@@ -10,3 +10,11 @@
 ### 1.` STAR 🌟 This Repo ` And Then Click Fork Below
 <br>
     <a href='https://github.com/shinobi-max/Shinobi-md/fork' target="_blank"><img alt='Fork' src='https://img.shields.io/badge/-Fork-blue?style=for-the-badge&logo=Github&logoColor=black'/></a>
+
+
+
+# Je travaille sur le site du session ID à present attend  un Peu
+
+
+# Sans le Session on peut pas deployer alors attend les platforme de deployment apres avoir fini le site du Session  
+     𝐌𝐞𝐫𝐜𝐢 𝐩𝐨𝐮𝐫 𝐯𝐨𝐭𝐫𝐞 𝐜𝐨𝐦𝐩𝐫𝐞𝐡𝐞𝐧𝐬𝐢𝐨𝐧
