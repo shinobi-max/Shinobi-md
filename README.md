@@ -2,13 +2,13 @@
  <html lang="fr">
 <head>
     <meta charset="UTF-8">
-     <title>Quelque Astuce</title>
+     <h1>Quelque Astuce</h1>
     </head> 
      
    <body
    <section>
-        <h1>Bienvenu sur ce repot</h1>
- {font-size:24px     
+        <h2>Bienvenu sur ce repot</h2>
+     
   
  <p>Mon nom est Calx Anonymous<br/>Et je suis</p>
         <li>Hacker</li>
