@@ -15,7 +15,7 @@
         <li>Disigner</li>   
         <li>Developper</li>
         
-        <p>mon but est de forme  des petit de mon genre<br/> et de leur donne de la capacite a developper </p>
+   <p>mon but est de forme  des petit de mon genre<br/> et de leur donne de la capacite a developper</p>
       </body>
    </section>
  </html>
