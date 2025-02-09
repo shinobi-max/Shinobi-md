@@ -5,12 +5,12 @@
        <title>Quelque Astuce</title>
     </head> 
      
-      <body>
-        <section>
+   <body
+   <section>
         <h1>Bienvenu sur ce repot</h1>
-        {font-size: 24px
-        font-weight:bold}
-        <p>Mon nom est Calx Anonymous<br/>Et je suis</p>
+      
+  
+ <p>Mon nom est Calx Anonymous<br/>Et je suis</p>
         <li>Hacker</li>
         <li>Disigner</li>   
         <li>Developper</li>
